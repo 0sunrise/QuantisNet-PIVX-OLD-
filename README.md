@@ -18,7 +18,7 @@ You should see:
   
 #### 4. Stop linux daemon and download new one (Only for people who are running own vps)  
 You can use the script made by Llama.  
-wget https://raw.githubusercontent.com/LlamaOnDrugs/Quan/master/quan-mn-update.sh && chmod +x quan-mn-update.sh
+wget https://raw.githubusercontent.com/LlamaOnDrugs/Quan/master/quan-mn-update.sh && chmod +x quan-mn-update.sh  
 ./quan-mn-update.sh  
   
 Or you can update manually.  

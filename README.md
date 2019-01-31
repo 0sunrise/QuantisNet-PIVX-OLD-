@@ -2,7 +2,6 @@
 Forked from PIVX  
 
 ### How to update  
-  
 #### 1. Close current your local wallet  
   
 #### 2. Download the latest local wallet from official github or file server  

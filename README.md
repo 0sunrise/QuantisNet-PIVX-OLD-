@@ -17,6 +17,7 @@ You should see:
   
 #### 4. Stop linux daemon and download new one (Only for people who are running own vps)  
 You can use the script made by Llama.  
+(Copy and paste one line at a time)  
 wget https://raw.githubusercontent.com/LlamaOnDrugs/Quan/master/quan-mn-update.sh && chmod +x quan-mn-update.sh  
 ./quan-mn-update.sh  
   
@@ -37,6 +38,6 @@ You should see the protocol version will change to 72222 from 72221
   
 #### FAQ  
 Q. When I start new local wallet an error windows appeard. What should I do?  
-A. Delete folders and files except wallet.dat, masternode.conf, quantisnet.conf in quantisNET folder.  
+A. Backup quantisNET folder and delete folders and files except wallet.dat, masternode.conf, quantisnet.conf in quantisNET folder.  
    Then restart wallet.  
 

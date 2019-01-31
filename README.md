@@ -14,7 +14,7 @@ Type "getinfo" on the debug console.
 You should see:  
 "version" : 2000100,  
 "protocolversion" : 72222,  
-  
+   
 #### 4. Stop linux daemon and download new one (Only for people who are running own vps)  
 You can use the script made by Llama.  
 (Copy and paste one line at a time)  

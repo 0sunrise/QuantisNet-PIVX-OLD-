@@ -43,7 +43,7 @@ You should see the protocol version will change to 72222 from 72221
 Q. When I start new local wallet, I got an error message window  
 "MinGW Runtime Assertion". What should I do?  
 
-A. Backup QuantisNET folder to where else. Next, delete folders and files in   QuantisnNET folder except wallet.dat,   masternode.conf and quantisnet.conf.  
+A. Backup QuantisNET folder to elsewhere. Next, delete folders and files in   QuantisnNET folder except wallet.dat,   masternode.conf and quantisnet.conf.  
    Then restart wallet.  
 
 To find the data folder:  
